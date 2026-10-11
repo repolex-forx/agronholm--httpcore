@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "httpcore",
+  "versions": [
+    {
+      "commit": "76f6e199b6ab92c6d18d3d8c65a9d19dab6d4ecb",
+      "tag": "0.10.2",
+      "parsed_at": "2026-10-11T08:37:02.981762+00:00"
+    }
+  ]
+}
