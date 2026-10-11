@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/agronholm/httpcore/commit/76f6e199b6ab92c6d18d3d8c65a9d19dab6d4ecb",
       "git:hexsha": "76f6e199b6ab92c6d18d3d8c65a9d19dab6d4ecb",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.10.2"
     },
     {
